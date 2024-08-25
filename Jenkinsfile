@@ -1,0 +1,9 @@
+{
+    agent any
+
+    stages {
+        stage {
+            
+        }
+    }
+}
